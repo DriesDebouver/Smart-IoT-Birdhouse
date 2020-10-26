@@ -12,6 +12,8 @@ When you come near the birdhouse with a device you can go on the ip address from
 - Raspberry Pi NoIR Camera V2 (8MP)
 - PIR motion sensor (HC-SR501)
 - Optional: BMP280 & DHT11 temperature sensors
+- PiJuice HAT with 1820, 5000, 10.000 or 12.000 mAh battery
+- PiJuice Solar Panel 6, 12, 22 or 40 Watt
 
 ### Setup:
 1. Download the included .zip file and extract it in the /home/pi folder on your Raspberry Pi
