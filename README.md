@@ -5,7 +5,7 @@ Birdhouse with a camera that records video's when motion is detected inside.
 Video's are saved on a USB stick and uploaded to a ownCloud storage server.
 The Raspberry Pi has a battery and solar panel so it doesn't need power.
 The Raspberry Pi is configured as a acces point so it doesn't need a internet connection.
-When you come near the birdhouse with a device you can go on the ip address from the Raspberry Pi a
+When you come near the birdhouse with a device you can go on the ip address from the Raspberry Pi and acces the videos.
 
 ### Parts:
 - Raspberry Pi 4 with Raspberry Pi OS (previously called Raspbian)
