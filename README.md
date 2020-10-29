@@ -15,7 +15,5 @@ When you come near the birdhouse with a device you can go on the ip address from
 - PiJuice HAT with 1820, 5000, 10.000 or 12.000 mAh battery
 - PiJuice Solar Panel 6, 12, 22 or 40 Watt
 
-### Setup:
-1. Download the included .zip file and extract it in the /home/pi folder on your Raspberry Pi.
-2. Run the "installation.sh" script and wait a very long time...
-3. Go to http://192.168.50.1/owncloud and enjoy.
+### More information on the Wiki page:
+https://github.com/DriesDebouver/Smart-IoT-Birdhouse/wiki
