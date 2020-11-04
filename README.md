@@ -2,10 +2,10 @@
 
 ## Smart Internet of Things Birdhouse based on a Raspberry Pi
 Birdhouse with a camera that records video's when motion is detected inside.
-Video's are saved on a USB stick and uploaded to a ownCloud storage server.
+Video's are saved on a ownCloud storage server running on the Raspberry Pi.
 The Raspberry Pi has a battery and solar panel so it doesn't need power.
-The Raspberry Pi is configured as a acces point so it doesn't need a internet connection.
-When you come near the birdhouse with a device you can go on the ip address from the Raspberry Pi and acces the videos.
+The Raspberry Pi is configured as a acces point/gateway so it doesn't need a internet connection but serves as a network to connect with.
+When you come near the birdhouse with a device you can connect on the network, go on the ip address from the Raspberry Pi and acces the videos in the cloud.
 
 ### Parts:
 - Raspberry Pi 4 with Raspberry Pi OS (previously called Raspbian)
