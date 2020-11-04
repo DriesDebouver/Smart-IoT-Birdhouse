@@ -8,12 +8,7 @@ The Raspberry Pi is configured as a acces point/gateway so it doesn't need a int
 When you come near the birdhouse with a device you can connect on the network, go on the ip address from the Raspberry Pi and acces the videos in the cloud.
 
 ### Parts:
-- Raspberry Pi 4 with Raspberry Pi OS (previously called Raspbian)
-- Raspberry Pi NoIR Camera V2 (8MP)
-- PIR motion sensor (HC-SR501)
-- Optional: BMP280 & DHT11 temperature sensors
-- PiJuice HAT with 1820, 5000, 10.000 or 12.000 mAh battery
-- PiJuice Solar Panel 6, 12, 22 or 40 Watt
+Raspberry Pi 4 with a camera module and a pir motion sensor
 
 ### More information on the Wiki page:
 https://github.com/DriesDebouver/Smart-IoT-Birdhouse/wiki
